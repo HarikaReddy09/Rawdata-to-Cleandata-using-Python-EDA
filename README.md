@@ -8,4 +8,3 @@ Step 5: Creating Features 🎨
 Step 6: Data Cleaning/Wrangling 🧹
 Step 7: EDA Exploratory Data Analysis 📈 
 Step 8: Handle categorical data 📉
-
